@@ -1,0 +1,88 @@
+<!-- FILE: index.html (Home Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Compliance in a Box</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Compliance in a Box (CIAB)</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="features.html">Features</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <h2>Simplifying Medical Compliance — So You Can Focus on Care</h2>
+      <p>Save time, reduce risk, and stay audit-ready — all in one intuitive platform.</p>
+      <a href="contact.html" class="button">Book a Demo</a>
+    </section>
+    <section class="benefits">
+      <h3>Why Healthcare Teams Choose CIAB</h3>
+      <div class="columns">
+        <div>
+          <h4>Automated Workflows</h4>
+          <p>Reduce manual tasks with built-in smart checklists.</p>
+        </div>
+        <div>
+          <h4>Real-Time Dashboards</h4>
+          <p>See your compliance status at a glance.</p>
+        </div>
+        <div>
+          <h4>Designed for Healthcare</h4>
+          <p>Tailored to meet regulatory needs.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Compliance in a Box</p>
+  </footer>
+</body>
+</html>
+
+<!-- FILE: about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About | CIAB</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="features.html">Features</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>We Take the Headache Out of Healthcare Compliance</h2>
+    <p>
+      Compliance in a Box (CIAB) was developed by compliance experts who understand the daily demands of running a healthcare practice.
+    </p>
+    <p>
+      Our mission is simple: to reduce the time, cost, and complexity of staying compliant — giving your team the freedom to focus on what matters most: patient care.
+    </p>
+    <p>
+      Whether you're managing a single clinic or a multi-site practice, CIAB makes compliance effortless, secure, and reliable.
+    </p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Compliance in a Box</p>
+  </footer>
+</body>
+</html>
